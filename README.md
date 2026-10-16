@@ -2,7 +2,7 @@
 
   <!-- Animated Typing SVG Header -->
   <a href="https://github.com/devdash01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=620&height=100&lines=Hi+there!+I'm+Dakshh+Goel+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;Building+modern%2C+scalable+web+apps+%E2%9A%A1;Turning+ideas+into+real-world+code+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+there!+I'm+Dakshh+Goel+%F0%9F%91%8B;Solving+DSA+in+C%2B%2B+%F0%9F%A7%A0%E2%9A%A1;Aspiring+Software+Engineer+%26+Web+Dev+Explorer+%F0%9F%9A%80;while(alive)+%7B+learn()%3B+code()%3B+%7D+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://artha-shala.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio%20%2F%20Live%20App-ArthaShala-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Featured%20Project-ArthaShala-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Featured Project" />
     </a>
   </p>
 
@@ -34,41 +34,42 @@
 
 ### 💫 About Me
 
-```javascript
-const dakshh = {
-  pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
-  technologies: {
-    frontEnd: ["React", "Next.js", "Tailwind CSS", "Redux"],
-    backEnd: ["Node.js", "Express", "RESTful APIs"],
-    databases: ["MongoDB", "PostgreSQL"],
-    devOps: ["Git", "GitHub", "Vercel", "Docker"]
-  },
-  currentFocus: "Architecting responsive, high-performance web applications",
-  funFact: "I turn coffee into clean, reusable components ☕✨"
+```cpp
+#include <iostream>
+#include <vector>
+
+struct Developer {
+    std::string name = "Dakshh Goel";
+    std::string primary_focus = "Data Structures & Algorithms in C++ 🧠";
+    std::vector<std::string> current_learning = {
+        "C++ Standard Template Library (STL)",
+        "Advanced Problem Solving & DSA",
+        "Modern Web Development (Frontend & Backend)"
+    };
+    std::string motto = "while (alive) { learn(); build(); optimize(); }";
 };
 ```
 
-- 🔭 **Currently working on:** Innovative web applications & full-stack experiences
-- 🌐 **Featured Project:** [ArthaShala](https://artha-shala.vercel.app)
-- 🌱 **Constantly learning:** Advanced TypeScript patterns, Next.js App Router, & scalable architectures
-- 💬 **Ask me about:** React, JavaScript performance, modern front-end UI/UX, and API integrations
-- ⚡ **Fun Fact:** Debugging is just being the detective in a crime movie where you are also the murderer!
+- 🎯 **Primary Focus:** Mastering **Data Structures & Algorithms** using **C++**
+- 🌐 **Web Dev Journey:** Exploring modern web technologies (HTML, CSS, JavaScript, React, Node.js)
+- 🚀 **Projects:** Built [ArthaShala](https://artha-shala.vercel.app) & [NaviBulk](https://github.com/devdash01/NaviBulk)
+- 💡 **Mindset:** Strong fundamental problem-solving, clean code, and continuous daily improvement
+- ⚡ **Fun Fact:** There are only 10 types of people in the world: those who understand binary, and those who don't!
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Skills & Technologies
 
 <div align="center">
 
-#### 💻 Languages & Frameworks
+#### 🧠 Problem Solving & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,python&perline=10" alt="Tech Stack Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode&perline=6" alt="Core Languages & Tools" />
 </p>
 
-#### 🧰 Tools & Databases & Cloud
+#### 🌐 Web Development (Learning & Building)
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,postman,vercel,docker,npm,vite&perline=10" alt="Tools & Cloud" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,vercel,npm,vite&perline=10" alt="Web Development Stack" />
 </p>
 
 </div>
@@ -98,12 +99,12 @@ const dakshh = {
 
 ---
 
-### 🚀 Featured Highlights
+### 🚀 Projects & Highlights
 
-| Project | Description | Tech Stack | Status |
+| Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| 🌟 **[ArthaShala](https://github.com/devdash01/ArthaShala)** | Interactive financial education & learning platform | JavaScript, React, Vercel | [Live Demo 🚀](https://artha-shala.vercel.app) |
-| 🧭 **[NaviBulk](https://github.com/devdash01/NaviBulk)** | Streamlined bulk navigation and source routing utility | JavaScript, HTML5 | Active |
+| 🌟 **[ArthaShala](https://github.com/devdash01/ArthaShala)** | Interactive financial education and learning platform | JavaScript, Web Dev, Vercel | [Live Demo 🚀](https://artha-shala.vercel.app) |
+| 🧭 **[NaviBulk](https://github.com/devdash01/NaviBulk)** | Streamlined bulk navigation and routing web utility | JavaScript, HTML5 | [Repository 📂](https://github.com/devdash01/NaviBulk) |
 
 ---
 
@@ -128,5 +129,5 @@ const dakshh = {
 <br/>
 
 <div align="center">
-  <sub>Designed with ❤️ by <b>Dakshh Goel</b> • Thanks for stopping by! ⭐</sub>
+  <sub>Designed with ❤️ by <b>Dakshh Goel</b> • Consistency is key! 💻✨</sub>
 </div>
