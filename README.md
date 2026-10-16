@@ -2,7 +2,7 @@
 
   <!-- Animated Typing SVG Header -->
   <a href="https://github.com/devdash01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+there!+I'm+Dakshh+Goel+%F0%9F%91%8B;Solving+DSA+in+C%2B%2B+%F0%9F%A7%A0%E2%9A%A1;Building+Modern+Web+Apps+%26+Collaborating+%F0%9F%9A%80;while(alive)+%7B+learn()%3B+build()%3B+%7D+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+there!+I'm+Dakshh+Goel+%F0%9F%91%8B;%F0%9F%8F%86+Hackathon+Winner+%7C+SIH+2026;Solving+DSA+in+C%2B%2B+%F0%9F%A7%A0%E2%9A%A1;Building+Modern+Web+Apps+%26+Collaborating+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -32,6 +32,20 @@
 
 ---
 
+### 🏆 Achievements & Hackathon Honors
+
+<div align="center">
+
+[![Hackathon Winner](https://img.shields.io/badge/🏆_Hackathon_Winner-Smart_India_Hackathon_(SIH)-FFD700?style=for-the-badge&labelColor=1a1a1a&color=FFD700)](https://github.com/devdash01/NaviBulk)
+[![Ministry of Steel](https://img.shields.io/badge/Ministry_of_Steel-SAIL_(Problem_26006)-0284c7?style=for-the-badge&labelColor=0f172a)](https://github.com/devdash01/NaviBulk)
+
+</div>
+
+> 🥇 **Winner — Smart India Hackathon (SIH)**  
+> Developed **[SAIL NaviBulk](https://github.com/devdash01/NaviBulk)** (Problem Statement ID: `SIH-26006`) for the **Ministry of Steel & Steel Authority of India Limited (SAIL)** — an institutional-grade maritime chartering decision engine and forward procurement optimizer replacing reactive spot-chartering with predictive logistics algorithms.
+
+---
+
 ### 💫 About Me
 
 ```cpp
@@ -40,19 +54,21 @@
 
 struct Developer {
     std::string name = "Dakshh Goel";
+    std::string title = "🏆 Hackathon Winner | Aspiring Software Engineer";
     std::string primary_focus = "Data Structures & Algorithms in C++ 🧠";
     std::vector<std::string> ongoing_work = {
         "Problem Solving & Competitive Programming in C++",
         "Frontend & Full-Stack Web Development (React, Next.js, Node.js)",
-        "Collaborative Real-World Engineering & Hackathon Projects (AI, Systems & Web)"
+        "Collaborative Real-World Engineering & Hackathon Innovations (AI, Systems & Web)"
     };
     std::string motto = "while (alive) { learn(); build(); optimize(); }";
 };
 ```
 
+- 🏆 **Hackathon Winner:** Winner at **Smart India Hackathon (SIH)** under Ministry of Steel / SAIL with [NaviBulk](https://github.com/devdash01/NaviBulk)
 - 🧠 **Problem Solving:** Actively practicing **Data Structures & Algorithms** using **C++**
 - 🌐 **Web Dev Journey:** Building modern, performant web applications with **React, Next.js, and Node.js**
-- 🛰️ **Hackathons & Systems:** Proud collaborator on projects like **[SatQueryAI](https://github.com/tusharrr0302/SatQueryAI)**, **[RachnaOS](https://github.com/tusharrr0302/RachnaOS)**, and **[TariffIQ](https://github.com/devdash01/TariffIQ-project)**
+- 🤝 **Collaborator:** Active contributor to platforms like **[SatQueryAI](https://github.com/tusharrr0302/SatQueryAI)**, **[RachnaOS](https://github.com/tusharrr0302/RachnaOS)**, and **[TariffIQ](https://github.com/devdash01/TariffIQ-project)**
 - ⚡ **Fun Fact:** There are only 10 types of people in the world: those who understand binary, and those who don't!
 
 ---
@@ -79,11 +95,11 @@ struct Developer {
 
 | Project | Role / Scope | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 🏆 **[NaviBulk](https://github.com/devdash01/NaviBulk)** | Author / SIH Winner | **Maritime Decision Engine (SIH Winner - Ministry of Steel / SAIL)** — Institutional-grade commercial dry bulk chartering decision engine with hydrodynamic speed optimization, landed cost modeling, and route planning. | React, Python, FastAPI, XGBoost, HTML5 | [Repository 📂](https://github.com/devdash01/NaviBulk) |
 | 🛰️ **[SatQueryAI](https://github.com/tusharrr0302/SatQueryAI)** | Collaborator | **Satellite Query & Vision Intelligence Assistant** — AI-driven remote sensing analysis system designed for multi-sensor observation queries and intelligent data processing. | Python, AI/ML, Satellite Data | [Repository 📂](https://github.com/tusharrr0302/SatQueryAI) |
 | 🛡️ **[RachnaOS](https://github.com/tusharrr0302/RachnaOS)** | Collaborator | **Proactive Creator Operating System** — Unified platform helping content creators, freelancers, and managers avoid mistakes before they happen with proactive risk assessment. | React, Vite, Node.js, Supabase, Clerk | [Repository 📂](https://github.com/tusharrr0302/RachnaOS) |
 | 📈 **[TariffIQ](https://github.com/devdash01/TariffIQ-project)** | Author / Lead | **Intelligent Tariff & Analytics Platform** — Dynamic financial analytics dashboard with custom visualization models and automated report intelligence. | Next.js 15, React 19, Python, Tailwind, Recharts | [Repository 📂](https://github.com/devdash01/TariffIQ-project) |
 | 🌟 **[ArthaShala](https://github.com/devdash01/ArthaShala)** / **[Nexora](https://github.com/Mehatva/Arthashala-Nexora)** | Core Contributor | **Financial Education & Atlas Engine** — Interactive gamified financial education platform driven by intelligent recommendation algorithms. | JavaScript, React, Vercel | [Live Demo 🚀](https://artha-shala.vercel.app) / [Nexora 📂](https://github.com/Mehatva/Arthashala-Nexora) |
-| 🧭 **[NaviBulk](https://github.com/devdash01/NaviBulk)** | Author / Hackathon | **Maritime Route & Voyage Optimizer** — Built for Smart India Hackathon (SIH), providing hydrodynamic speed optimization, landed cost breakdown, and route planning. | JavaScript, HTML5, CSS3 | [Repository 📂](https://github.com/devdash01/NaviBulk) |
 | 📚 **[web-dev-05-26](https://github.com/skadoodle1201/web-dev-05-26)** | Collaborator | **Full-Stack & JavaScript Mastery Repo** — Deep dive repository covering core JS nuances, DOM engineering, asynchronous patterns, and Express routing. | JavaScript, Node.js, Express, HTML/CSS | [Repository 📂](https://github.com/skadoodle1201/web-dev-05-26) |
 
 ---
