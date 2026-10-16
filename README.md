@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Animated Typing SVG Header -->
+  <!-- Animated Typing SVG Header: Focused strictly on DSA & Web Dev -->
   <a href="https://github.com/devdash01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+there!+I'm+Dakshh+Goel+%F0%9F%91%8B;%F0%9F%8F%86+Hackathon+Winner+%F0%9F%9A%80;Solving+DSA+in+C%2B%2B+%F0%9F%A7%A0%E2%9A%A1;Building+Modern+Web+Apps+%26+Collaborating+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+there!+I'm+Dakshh+Goel+%F0%9F%91%8B;Solving+DSA+in+C%2B%2B+%F0%9F%A7%A0%E2%9A%A1;Exploring+Modern+Web+Development+%F0%9F%8C%90;while(alive)+%7B+learn()%3B+code()%3B+%7D+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -29,20 +29,6 @@
 
 ---
 
-### 🏆 Achievements & Honors
-
-<div align="center">
-
-[![Hackathon Winner](https://img.shields.io/badge/🏆_Achievement-Hackathon_Winner-FFD700?style=for-the-badge&labelColor=1a1a1a&color=FFD700)](#-achievements--honors)
-[![Rapid Prototyping](https://img.shields.io/badge/⚡_Specialty-Rapid_Prototyping_%26_Problem_Solving-0284c7?style=for-the-badge&labelColor=0f172a)](#-achievements--honors)
-
-</div>
-
-> 🥇 **Hackathon Winner**  
-> Proven track record of developing winning solutions under tight, competitive hackathon deadlines — transforming real-world problem statements into high-performance, production-ready applications through rapid prototyping, architectural planning, and teamwork.
-
----
-
 ### 💫 About Me
 
 ```cpp
@@ -51,21 +37,19 @@
 
 struct Developer {
     std::string name = "Dakshh Goel";
-    std::string title = "🏆 Hackathon Winner | Aspiring Software Engineer";
     std::string primary_focus = "Data Structures & Algorithms in C++ 🧠";
-    std::vector<std::string> ongoing_work = {
-        "Problem Solving & Competitive Programming in C++",
-        "Frontend & Full-Stack Web Development (React, Next.js, Node.js)",
-        "Collaborative Real-World Engineering & Hackathon Innovations (AI, Systems & Web)"
+    std::vector<std::string> current_journey = {
+        "Mastering DSA & Problem Solving in C++",
+        "Exploring Modern Web Development (Frontend & Backend)",
+        "Building Real-World Projects & Systems"
     };
     std::string motto = "while (alive) { learn(); build(); optimize(); }";
 };
 ```
 
-- 🏆 **Hackathon Winner:** Passionate competitive hacker with experience building award-winning solutions under pressure
-- 🧠 **Problem Solving:** Actively practicing **Data Structures & Algorithms** using **C++**
-- 🌐 **Web Dev Journey:** Building modern, performant web applications with **React, Next.js, and Node.js**
-- 🤝 **Collaborator:** Active contributor to platforms like **[SatQueryAI](https://github.com/tusharrr0302/SatQueryAI)**, **[RachnaOS](https://github.com/tusharrr0302/RachnaOS)**, and **[TariffIQ](https://github.com/devdash01/TariffIQ-project)**
+- 🧠 **Primary Focus:** Actively practicing **Data Structures & Algorithms** using **C++**
+- 🌐 **Web Dev Journey:** Exploring modern web development (HTML, CSS, JavaScript, React, Node.js)
+- 💡 **Mindset:** Strong fundamental problem-solving, clean code, and continuous daily learning
 - ⚡ **Fun Fact:** There are only 10 types of people in the world: those who understand binary, and those who don't!
 
 ---
@@ -98,6 +82,20 @@ struct Developer {
 | 📈 **[TariffIQ](https://github.com/devdash01/TariffIQ-project)** | Author / Lead | **Intelligent Tariff & Analytics Platform** — Dynamic financial analytics dashboard with custom visualization models and automated report intelligence. | Next.js 15, React 19, Python, Tailwind, Recharts | [Repository 📂](https://github.com/devdash01/TariffIQ-project) |
 | 🌟 **[ArthaShala](https://github.com/devdash01/ArthaShala)** / **[Nexora](https://github.com/Mehatva/Arthashala-Nexora)** | Core Contributor | **Financial Education & Atlas Engine** — Interactive gamified financial education platform driven by intelligent recommendation algorithms. | JavaScript, React, Vercel | [Live Demo 🚀](https://artha-shala.vercel.app) / [Nexora 📂](https://github.com/Mehatva/Arthashala-Nexora) |
 | 📚 **[web-dev-05-26](https://github.com/skadoodle1201/web-dev-05-26)** | Collaborator | **Full-Stack & JavaScript Mastery Repo** — Deep dive repository covering core JS nuances, DOM engineering, asynchronous patterns, and Express routing. | JavaScript, Node.js, Express, HTML/CSS | [Repository 📂](https://github.com/skadoodle1201/web-dev-05-26) |
+
+---
+
+### 🏆 Achievements & Honors
+
+<div align="center">
+
+[![Hackathon Winner](https://img.shields.io/badge/🏆_Achievement-Hackathon_Winner-FFD700?style=for-the-badge&labelColor=1a1a1a&color=FFD700)](#-achievements--honors)
+[![Rapid Prototyping](https://img.shields.io/badge/⚡_Specialty-Rapid_Prototyping_%26_Problem_Solving-0284c7?style=for-the-badge&labelColor=0f172a)](#-achievements--honors)
+
+</div>
+
+> 🥇 **Hackathon Winner**  
+> Proven track record of developing winning solutions under tight, competitive hackathon deadlines — transforming real-world problem statements into high-performance, production-ready applications through rapid prototyping, architectural planning, and teamwork.
 
 ---
 
