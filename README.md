@@ -44,7 +44,7 @@ struct Developer {
     std::vector<std::string> ongoing_work = {
         "Problem Solving & Competitive Programming in C++",
         "Frontend & Full-Stack Web Development (React, Next.js, Node.js)",
-        "Collaborative Real-World Engineering & Hackathon Projects"
+        "Collaborative Real-World Engineering & Hackathon Projects (SIH, AI & Web)"
     };
     std::string motto = "while (alive) { learn(); build(); optimize(); }";
 };
@@ -52,7 +52,7 @@ struct Developer {
 
 - 🧠 **Problem Solving:** Actively practicing **Data Structures & Algorithms** using **C++**
 - 🌐 **Web Dev Journey:** Building modern, performant web applications with **React, Next.js, and Node.js**
-- 🤝 **Team Player & Collaborator:** Actively contributing to multi-developer ecosystems, hackathons, and creator-focused platforms
+- 🛰️ **Hackathons & Systems:** Proud contributor to innovative platforms like **SatQuery** (SIH / Earth Observation AI), **RachnaOS**, and **TariffIQ**
 - ⚡ **Fun Fact:** There are only 10 types of people in the world: those who understand binary, and those who don't!
 
 ---
@@ -79,6 +79,7 @@ struct Developer {
 
 | Project | Role / Scope | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 🛰️ **[SatQuery / SatQuery-AI](https://satquery-ai-silk.vercel.app)** | Core Contributor | **Multimodal Earth Observation AI Assistant** (SIH 2026 - ISRO / SAC) — Vision-Language system fusing Optical & SAR satellite imagery for visual grounding, bi-temporal change detection, and natural language query analysis. | TypeScript, Python, GIS, VLM, Vercel | [Live Demo 🚀](https://satquery-ai-silk.vercel.app) / [Alt Demo](https://satquery-nu.vercel.app/) |
 | 🛡️ **[RachnaOS](https://github.com/tusharrr0302/RachnaOS)** | Collaborator | **Proactive Creator Operating System** — Unified platform helping content creators, freelancers, and managers avoid mistakes before they happen with proactive risk assessment. | React, Vite, Node.js, Supabase, Clerk | [Repository 📂](https://github.com/tusharrr0302/RachnaOS) |
 | 📈 **[TariffIQ](https://github.com/devdash01/TariffIQ-project)** | Author / Lead | **Intelligent Tariff & Analytics Platform** — Dynamic financial analytics dashboard with custom visualization models and automated report intelligence. | Next.js 15, React 19, Python, Tailwind, Recharts | [Repository 📂](https://github.com/devdash01/TariffIQ-project) |
 | 🌟 **[ArthaShala](https://github.com/devdash01/ArthaShala)** / **[Nexora](https://github.com/Mehatva/Arthashala-Nexora)** | Core Contributor | **Financial Education & Atlas Engine** — Interactive gamified financial education platform driven by intelligent recommendation algorithms. | JavaScript, React, Vercel | [Live Demo 🚀](https://artha-shala.vercel.app) / [Nexora 📂](https://github.com/Mehatva/Arthashala-Nexora) |
