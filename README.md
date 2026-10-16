@@ -2,7 +2,7 @@
 
   <!-- Animated Typing SVG Header -->
   <a href="https://github.com/devdash01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+there!+I'm+Dakshh+Goel+%F0%9F%91%8B;Solving+DSA+in+C%2B%2B+%F0%9F%A7%A0%E2%9A%A1;Aspiring+Software+Engineer+%26+Web+Dev+Explorer+%F0%9F%9A%80;while(alive)+%7B+learn()%3B+code()%3B+%7D+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+there!+I'm+Dakshh+Goel+%F0%9F%91%8B;Solving+DSA+in+C%2B%2B+%F0%9F%A7%A0%E2%9A%A1;Building+Modern+Web+Apps+%26+Collaborating+%F0%9F%9A%80;while(alive)+%7B+learn()%3B+build()%3B+%7D+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://artha-shala.vercel.app">
-      <img src="https://img.shields.io/badge/Featured%20Project-ArthaShala-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Featured Project" />
+      <img src="https://img.shields.io/badge/Live%20Project-ArthaShala-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
     </a>
   </p>
 
@@ -41,19 +41,18 @@
 struct Developer {
     std::string name = "Dakshh Goel";
     std::string primary_focus = "Data Structures & Algorithms in C++ 🧠";
-    std::vector<std::string> current_learning = {
-        "C++ Standard Template Library (STL)",
-        "Advanced Problem Solving & DSA",
-        "Modern Web Development (Frontend & Backend)"
+    std::vector<std::string> ongoing_work = {
+        "Problem Solving & Competitive Programming in C++",
+        "Frontend & Full-Stack Web Development (React, Next.js, Node.js)",
+        "Collaborative Real-World Engineering & Hackathon Projects"
     };
     std::string motto = "while (alive) { learn(); build(); optimize(); }";
 };
 ```
 
-- 🎯 **Primary Focus:** Mastering **Data Structures & Algorithms** using **C++**
-- 🌐 **Web Dev Journey:** Exploring modern web technologies (HTML, CSS, JavaScript, React, Node.js)
-- 🚀 **Projects:** Built [ArthaShala](https://artha-shala.vercel.app) & [NaviBulk](https://github.com/devdash01/NaviBulk)
-- 💡 **Mindset:** Strong fundamental problem-solving, clean code, and continuous daily improvement
+- 🧠 **Problem Solving:** Actively practicing **Data Structures & Algorithms** using **C++**
+- 🌐 **Web Dev Journey:** Building modern, performant web applications with **React, Next.js, and Node.js**
+- 🤝 **Team Player & Collaborator:** Actively contributing to multi-developer ecosystems, hackathons, and creator-focused platforms
 - ⚡ **Fun Fact:** There are only 10 types of people in the world: those who understand binary, and those who don't!
 
 ---
@@ -64,15 +63,27 @@ struct Developer {
 
 #### 🧠 Problem Solving & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode&perline=6" alt="Core Languages & Tools" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode&perline=6" alt="Core Languages & Tools" />
 </p>
 
-#### 🌐 Web Development (Learning & Building)
+#### 🌐 Web Development & Modern Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,vercel,npm,vite&perline=10" alt="Web Development Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,supabase,vercel,vite,npm&perline=13" alt="Web Development Stack" />
 </p>
 
 </div>
+
+---
+
+### 🚀 Projects & Repositories I'm Part Of
+
+| Project | Role / Scope | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| 🛡️ **[RachnaOS](https://github.com/tusharrr0302/RachnaOS)** | Collaborator | **Proactive Creator Operating System** — Unified platform helping content creators, freelancers, and managers avoid mistakes before they happen with proactive risk assessment. | React, Vite, Node.js, Supabase, Clerk | [Repository 📂](https://github.com/tusharrr0302/RachnaOS) |
+| 📈 **[TariffIQ](https://github.com/devdash01/TariffIQ-project)** | Author / Lead | **Intelligent Tariff & Analytics Platform** — Dynamic financial analytics dashboard with custom visualization models and automated report intelligence. | Next.js 15, React 19, Python, Tailwind, Recharts | [Repository 📂](https://github.com/devdash01/TariffIQ-project) |
+| 🌟 **[ArthaShala](https://github.com/devdash01/ArthaShala)** / **[Nexora](https://github.com/Mehatva/Arthashala-Nexora)** | Core Contributor | **Financial Education & Atlas Engine** — Interactive gamified financial education platform driven by intelligent recommendation algorithms. | JavaScript, React, Vercel | [Live Demo 🚀](https://artha-shala.vercel.app) / [Nexora 📂](https://github.com/Mehatva/Arthashala-Nexora) |
+| 🧭 **[NaviBulk](https://github.com/devdash01/NaviBulk)** | Author / Hackathon | **Maritime Route & Voyage Optimizer** — Built for Smart India Hackathon (SIH), providing hydrodynamic speed optimization, landed cost breakdown, and route planning. | JavaScript, HTML5, CSS3 | [Repository 📂](https://github.com/devdash01/NaviBulk) |
+| 📚 **[web-dev-05-26](https://github.com/skadoodle1201/web-dev-05-26)** | Collaborator | **Full-Stack & JavaScript Mastery Repo** — Deep dive repository covering core JS nuances, DOM engineering, asynchronous patterns, and Express routing. | JavaScript, Node.js, Express, HTML/CSS | [Repository 📂](https://github.com/skadoodle1201/web-dev-05-26) |
 
 ---
 
@@ -96,15 +107,6 @@ struct Developer {
   </a>
 
 </div>
-
----
-
-### 🚀 Projects & Highlights
-
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| 🌟 **[ArthaShala](https://github.com/devdash01/ArthaShala)** | Interactive financial education and learning platform | JavaScript, Web Dev, Vercel | [Live Demo 🚀](https://artha-shala.vercel.app) |
-| 🧭 **[NaviBulk](https://github.com/devdash01/NaviBulk)** | Streamlined bulk navigation and routing web utility | JavaScript, HTML5 | [Repository 📂](https://github.com/devdash01/NaviBulk) |
 
 ---
 
