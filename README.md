@@ -18,9 +18,6 @@
     <a href="https://linkedin.com/in/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://artha-shala.vercel.app">
-      <img src="https://img.shields.io/badge/Live%20Project-ArthaShala-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-    </a>
   </p>
 
   <!-- Profile Views Counter -->
