@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Animated Typing SVG Header: Focused strictly on DSA & Web Dev -->
+  <!-- Animated Typing SVG Header: Focused strictly on DSA, Real-Time Systems & Web Dev -->
   <a href="https://github.com/devdash01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+there!+I'm+Dakshh+Goel+%F0%9F%91%8B;Solving+DSA+in+C%2B%2B+%F0%9F%A7%A0%E2%9A%A1;Exploring+Modern+Web+Development+%F0%9F%8C%90;while(alive)+%7B+learn()%3B+code()%3B+%7D+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+there!+I'm+Dakshh+Goel+%F0%9F%91%8B;Building+Real-Time+CAD+%26+Emergency+AI+%F0%9F%9B%A1%EF%B8%8F;Solving+DSA+in+C%2B%2B+%F0%9F%A7%A0%E2%9A%A1;Engineering+Modern+Web+%26+Mobile+Systems+%F0%9F%8C%90;while(alive)+%7B+learn()%3B+code()%3B+%7D+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -40,16 +40,18 @@ struct Developer {
     std::string primary_focus = "Data Structures & Algorithms in C++ 🧠";
     std::vector<std::string> current_journey = {
         "Mastering DSA & Problem Solving in C++",
-        "Exploring Modern Web Development (Frontend & Backend)",
-        "Building Real-World Projects & Systems"
+        "Building Real-Time Emergency & GovTech Systems (Saathi 🛡️)",
+        "Exploring Modern Web & Mobile Development (React, TypeScript, Android/Capacitor)",
+        "Architecting High-Impact Decision Engines & Distributed Platforms"
     };
     std::string motto = "while (alive) { learn(); build(); optimize(); }";
 };
 ```
 
 - 🧠 **Primary Focus:** Actively practicing **Data Structures & Algorithms** using **C++**
-- 🌐 **Web Dev Journey:** Exploring modern web development (HTML, CSS, JavaScript, React, Node.js)
-- 💡 **Mindset:** Strong fundamental problem-solving, clean code, and continuous daily learning
+- 🛡️ **Flagship Engineering:** Creator of **[Saathi](https://github.com/devdash01/Saathi)** — Real-time Emergency Decision-Support Console & Silent Citizen Platform for India's 181 Women Helpline & 112 ERSS
+- 🌐 **Web & Mobile Stack:** Modern React 19, TypeScript, Next.js, Android (Capacitor 8), Node.js, and real-time streaming architectures
+- 💡 **Mindset:** Strong algorithmic problem-solving, deterministic safety invariants, clean code, and continuous learning
 - ⚡ **Fun Fact:** There are only 10 types of people in the world: those who understand binary, and those who don't!
 
 ---
@@ -63,9 +65,9 @@ struct Developer {
   <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode&perline=6" alt="Core Languages & Tools" />
 </p>
 
-#### 🌐 Web Development & Modern Stack
+#### 🌐 Web, Mobile & Real-Time Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,supabase,vercel,vite,npm&perline=13" alt="Web Development Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,supabase,android,vercel,vite,npm&perline=14" alt="Web & Mobile Stack" />
 </p>
 
 </div>
@@ -76,6 +78,7 @@ struct Developer {
 
 | Project | Role / Scope | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 🛡️ **[Saathi](https://github.com/devdash01/Saathi)** | Author / Lead Architect | **181 Helpline Emergency CAD & Silent Citizen Distress Platform** — Computer-Aided Dispatch (CAD) decision-support platform for India's 181 Women Helpline & 112 ERSS. Features coded-call detection ("pizza order"), irreversible urgency floors, SafeSignal guardrails, live GIS tactical mapping, and zero-internet emergency SMS/WhatsApp fallbacks. | React 19, TypeScript, Capacitor 8 (Android), Sarvam AI, Leaflet, Vite | [Repository 📂](https://github.com/devdash01/Saathi) |
 | 🧭 **[NaviBulk](https://github.com/devdash01/NaviBulk)** | Author / Creator | **Maritime Decision Engine** — Institutional-grade commercial dry bulk chartering decision engine with hydrodynamic speed optimization, landed cost modeling, and route planning. | React, Python, FastAPI, XGBoost, HTML5 | [Repository 📂](https://github.com/devdash01/NaviBulk) |
 | 🛰️ **[SatQueryAI](https://github.com/tusharrr0302/SatQueryAI)** | Collaborator | **Satellite Query & Vision Intelligence Assistant** — AI-driven remote sensing analysis system designed for multi-sensor observation queries and intelligent data processing. | Python, AI/ML, Satellite Data | [Repository 📂](https://github.com/tusharrr0302/SatQueryAI) |
 | 🛡️ **[RachnaOS](https://github.com/tusharrr0302/RachnaOS)** | Collaborator | **Proactive Creator Operating System** — Unified platform helping content creators, freelancers, and managers avoid mistakes before they happen with proactive risk assessment. | React, Vite, Node.js, Supabase, Clerk | [Repository 📂](https://github.com/tusharrr0302/RachnaOS) |
